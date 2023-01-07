@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/nurilak/Four-card-section
-- Live Site URL: https://nurilak.github.io/Four-card-section/
+- Solution URL: https://github.com/nurilak/Four-card-feature
+- Live Site URL: https://nurilak.github.io/Four-card-feature/
 
 ## My process
 
